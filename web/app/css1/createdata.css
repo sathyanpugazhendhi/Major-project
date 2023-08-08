@@ -1,0 +1,79 @@
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+.form-record {
+    width: 100%;
+    max-width: 600px;
+    padding: 15px;
+    margin: auto;
+}
+
+.form-record .checkbox {
+    font-weight: 400;
+}
+
+.form-record .form-floating:focus-within {
+    z-index: 2;
+}
+.form-record input[name="victim_name"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 1;
+    border-bottom-left-radius: 1;
+
+}
+.form-record input[name="case_type"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 1;
+    border-bottom-left-radius: 1;
+    border-top-left-radius: 1;
+    border-top-right-radius: 1;
+}
+.form-record input[name="case_id"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 1;
+    border-bottom-left-radius: 1;
+    border-top-left-radius: 1;
+    border-top-right-radius: 1;
+}
+.form-record input[name="gender"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 1;
+    border-bottom-left-radius: 1;
+    border-top-left-radius: 1;
+    border-top-right-radius: 1;
+}
+.form-record input[name="phone"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 1;
+    border-bottom-left-radius: 1;
+    border-top-left-radius: 1;
+    border-top-right-radius: 1;
+}
+.form-record input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 1;
+    border-bottom-left-radius: 1;
+    border-top-left-radius: 1;
+    border-top-right-radius: 1;
+}
+.form-record input[type="crime_detail"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.form-record input[type="location"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+
+
